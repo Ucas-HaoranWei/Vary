@@ -20,7 +20,7 @@ Code, model weights, and demo will be released soon.
 
 
 ## Contact
-If you have any questions related to the code or the paper, feel free to email Haoran Wei (`xxx.xxx@xxx.com`).
+If you have any questions related to the code or the paper, feel free to email Haoran Wei (`weihaoran18@mails.ucas.ac.cn`).
 
 ## Citation
 If you find our work useful in your research, please consider citing Vary:
