@@ -25,10 +25,5 @@ If you have any questions related to the code or the paper, feel free to email H
 ## Citation
 If you find our work useful in your research, please consider citing Vary:
 ```tex
-@article{dong2023dreamllm,
-  author = {Haoran, Wei and Lingyu, Kong and Jinyue, Chen and Liang, Zhao and Zheng, Ge and Jinrong, Yang and Jianjian, Sun and Chunrui, Han and Xiangyu, Zhang},
-  title = {Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models},
-  journal = {arXiv preprint arXiv:2309.11499},
-  year = {2023},
-}
+placeholder for paper
 ```
