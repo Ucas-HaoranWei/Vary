@@ -123,7 +123,7 @@ deepspeed   Vary/train/train_opt.py  --deepspeed /Vary/zero_config/zero2.json
 
 
 ## Contact
-If you have any questions related to the code or the paper, feel free to email Haoran Wei (`weihaoran18@mails.ucas.ac.cn`).
+If you have any questions related to the code or the paper, feel free to email (`weihaoran18@mails.ucas.ac.cn`).
 
 ## Acknowledgement
 - [LLaVA](https://github.com/lm-sys/FastChat): the codebase we built upon!
