@@ -59,7 +59,7 @@ python vary/demo/run_qwen_vary.py  --model-name  /vary/model/path/ --image-file 
 ## Train
 - We currently do not plan to open source the weights of the intermediate.
 - However, we release the train codes. So you can train on your own dataset.
-If you want to train on your own data, you can try this:
+If you want to do this, you can try this:
 1. For Vary-base (one machine, if you have multiple machines you need prepare your hostfile)
 ```Shell
 deepspeed   Vary/train/train_qwen_vary.py  --deepspeed /Vary/zero_config/zero2.json
