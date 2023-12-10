@@ -12,13 +12,13 @@
 </p>
 
 ## Release
-- [2023/12/11] The paper will be released in the next two days.
+- [2023/12/11] The paper will be released in two days.
 - [2023/12/11] We released the online demo, have fun! 
 - [2023/12/11] We released the codes of Vary (train and inference)! 
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
-**Usage and License Notices**: The data, code and checkpoint is intended and licensed for research use only. They are also restricted to use that follow the license agreement of LLaMA, Vicuna, GPT-4, Qwen, and LLaVA. 
+**Usage and License Notices**: The data, code, and checkpoint are intended and licensed for research use only. They are also restricted to use that follow the license agreement of LLaMA, Vicuna, GPT-4, Qwen, and LLaVA. 
 
 
 ## Contents
@@ -28,7 +28,7 @@
 - [Train](#train)
 
 ## Install
-1. Clone this repository and navigate to Vary folder
+1. Clone this repository and navigate to the Vary folder
 ```bash
 git clone https://github.com/Ucas-HaoranWei/Vary.git
 cd Vary
@@ -51,7 +51,8 @@ pip install flash-attn --no-build-isolation
 - Download the CLIP-VIT-L in [huggingface](https://huggingface.co/openai/clip-vit-large-patch14/tree/main)
   
 ## Demo
-1.Update the CLIP-VIT path in the codes (/cache/vit-large-patch14/) to your path.
+1. Update the CLIP-VIT path in the codes (/cache/vit-large-patch14/) to your path.
+
 2.
 ```Shell
 python vary/demo/run_qwen_vary.py  --model-name  /vary/model/path/ --image-file /an/image/file.png
@@ -60,7 +61,7 @@ python vary/demo/run_qwen_vary.py  --model-name  /vary/model/path/ --image-file 
 - We currently do not plan to open source the weights of the intermediate.
 - However, we release the train codes. So you can train on your own dataset.
 If you want to do this, you can try this:
-1. For Vary-base (one machine, if you have multiple machines you need prepare your hostfile)
+1. For Vary-base (one machine, if you have multiple machines you need to prepare your host file)
 ```Shell
 deepspeed   Vary/train/train_qwen_vary.py  --deepspeed /Vary/zero_config/zero2.json
             --model_name_or_path /Qwen-7B/path/
