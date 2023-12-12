@@ -12,7 +12,6 @@
 </p>
 
 ## Release
-- [2023/12/12] The paper is submitted to arxiv.
 - [2023/12/11] We released the online demo, have fun! 
 - [2023/12/11] We released the codes of Vary (train and inference)! 
 
@@ -130,8 +129,15 @@ If you have any questions related to the code or the paper, feel free to email (
 - [Qwen](https://github.com/QwenLM/Qwen): the LLM base model of Vary, which is good at both English and Chinese!
 
 
+
+
 ## Citation
 If you find our work useful in your research, please consider citing Vary:
-```tex
-placeholder for paper
+```bibtex
+@article{wei2023vary,
+  author = {Haoran, Wei and Lingyu, Kong and Jinyue, Chen and Liang, Zhao and Zheng, Ge and Jinrong, Yang and Jianjian, Sun and Chunrui, Han and Xiangyu, Zhang},
+  title = {Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models},
+  journal = {arXiv preprint arXiv:2312.06109},
+  year = {2023},
+}
 ```
