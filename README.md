@@ -1,6 +1,6 @@
 <h3><a href="">Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models</a></h3>
 <a href="https://varybase.github.io/"><img src="https://img.shields.io/badge/Project-Page-Green"></a>
-<a href="#"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
+<a href="https://arxiv.org/abs/2312.06109"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
 <a href="http://region-31.seetacloud.com:22701/"><img src="https://img.shields.io/badge/demo-blue"></a> 
 
 [Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Lingyu Kong*, Jinyue Chen, Liang Zhao, [Zheng Ge](https://joker316701882.github.io/), [Jinrong Yang](https://yancie-yjr.github.io/), [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), Chunrui Han, [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en)
