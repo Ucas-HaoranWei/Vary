@@ -12,7 +12,7 @@
 </p>
 
 ## Release
-- [2023/12/12] The paper is released on arxiv.
+- [2023/12/12] The paper is submitted to arxiv.
 - [2023/12/11] We released the online demo, have fun! 
 - [2023/12/11] We released the codes of Vary (train and inference)! 
 
