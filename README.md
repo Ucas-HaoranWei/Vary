@@ -47,7 +47,7 @@ pip install flash-attn --no-build-isolation
 
 ## Vary Weights
 - We released the Vary-base ([Qwen-7B](https://github.com/QwenLM/Qwen)) after [llava-80k](https://github.com/haotian-liu/LLaVA) SFT, you can download in [Baiduyun](https://pan.baidu.com/s/1HrJEXkZsBWNp3dTvnv2OSA), code: vary, we will upload the weights to other Netdisks soon!
-- Download the CLIP-VIT-L in [huggingface](https://huggingface.co/openai/clip-vit-large-patch14/tree/main)
+- Download the CLIP-VIT-L in [Hugging Face](https://huggingface.co/openai/clip-vit-large-patch14/tree/main)
   
 ## Demo
 1. Update the CLIP-VIT path in the codes (/cache/vit-large-patch14/) to your path.
