@@ -46,7 +46,7 @@ pip install flash-attn --no-build-isolation
 ```
 
 ## Vary Weights
-- Our weights will be reorganized and open source again in the next few days.
+- Due to download speed issues with Baiduyun, we have temporarily closed the download link. Our weights will be reorganized and open source again in the next few days.
 - Download the CLIP-VIT-L in [Hugging Face](https://huggingface.co/openai/clip-vit-large-patch14/tree/main)
   
 ## Demo
