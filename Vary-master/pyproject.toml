@@ -24,7 +24,6 @@ dependencies = [
     "tiktoken",
     "accelerate==0.24.1",
     "transformers==4.32.1",
-    "accelerate==0.21.0",
     "bitsandbytes==0.41.0",
     "scikit-learn==1.2.2",
     "sentencepiece==0.1.99",
