@@ -12,6 +12,7 @@
 </p>
 
 ## Release
+- [2023/1/23]🔥🔥🔥We release the Vary-toy [here](https://github.com/Ucas-HaoranWei/Vary-toy).
 - [2023/12/29]🔥🔥🔥We will release a new model (a small-size Vary, about 2B) at the beginning of next month and introduce a new feature (object detection). Our online demo will be temporarily closed to prepare for the deployment of the new model.
 - [2023/12/11] We released the online demo, have fun! 
 - [2023/12/11] We released the codes of Vary (train and inference)! 
