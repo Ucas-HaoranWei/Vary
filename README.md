@@ -143,4 +143,11 @@ If you find our work useful in your research, please consider citing Vary:
   journal={arXiv preprint arXiv:2312.06109},
   year={2023}
 }
+
+@article{wei2024small,
+  title={Small Language Model Meets with Reinforced Vision Vocabulary},
+  author={Wei, Haoran and Kong, Lingyu and Chen, Jinyue and Zhao, Liang and Ge, Zheng and Yu, En and Sun, Jianjian and Han, Chunrui and Zhang, Xiangyu},
+  journal={arXiv preprint arXiv:2401.12503},
+  year={2024}
+}
 ```
