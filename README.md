@@ -13,7 +13,7 @@
 </p>
 
 ## Release
-- [2023/3/16]🔥🔥🔥I found many friends very interested in Vary-tiny(OPT-125M), so I opened source it [here](https://huggingface.co/HaoranWei/Vary-tiny-opt125M/tree/main), a version with PDF-dense OCR and object detection version.
+- [2023/3/16]🔥🔥🔥I found many friends very interested in Vary-tiny(OPT-125M), so I opened source it [here](https://huggingface.co/HaoranWei/Vary-tiny-opt125M/tree/main), a PDF-dense OCR and object detection version.
 - [2023/1/23]🔥🔥🔥We release the Vary-toy [here](https://github.com/Ucas-HaoranWei/Vary-toy). Besides, we show the super good Vary-family results [here](https://github.com/Ucas-HaoranWei/Vary-family).
 - [2023/12/29]🔥🔥🔥We will release a new model (a small-size Vary, about 2B) at the beginning of next month and introduce a new feature (object detection). Our online demo will be temporarily closed to prepare for the deployment of the new model.
 - [2023/12/11] We released the online demo, have fun! 
