@@ -49,7 +49,7 @@ class varyOPTModel(OPTModel):
         super(varyOPTModel, self).__init__(config)
 
 
-        self.vision_tower = build_sam_vit_b()
+        self.vision_tower_2 = build_sam_vit_b()
 
         self.mm_projector = nn.Linear(1024, 768)
 
@@ -113,7 +113,7 @@ class varyOPTModel(OPTModel):
             # inputs_embeds = self.wte(input_ids)
 
 
-        vision_tower = getattr(self, 'vision_tower', None)
+        vision_tower = getattr(self, 'vision_tower_2', None)
 
 
         if vision_tower is not None and (input_ids.shape[1] != 1 or self.training) and images is not None:
