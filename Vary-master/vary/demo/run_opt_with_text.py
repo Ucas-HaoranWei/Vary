@@ -48,7 +48,6 @@ def eval_model(args):
     model = varyOPTForCausalLM.from_pretrained(model_name)
 
 
-
     model.to(device='cuda',  dtype=torch.bfloat16)
 
     # image_processor_high =  test_transform
@@ -60,19 +59,18 @@ def eval_model(args):
     qs = "Provide the OCR results of this image."
     # qs = "detect Person in this image.Your answer should be structured precisely according to the category:[xmin,ymin,xmax,ymax] format."
 
-    if use_im_start_end:
-        qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN*image_token_len + DEFAULT_IM_END_TOKEN  + qs
-    else:
-        qs = DEFAULT_IMAGE_TOKEN + '\n' + qs
-      
+
+    qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * image_token_len + DEFAULT_IM_END_TOKEN + '\n' + qs
+
     conv_mode = "v1"
     conv = conv_templates[conv_mode].copy()
     conv.append_message(conv.roles[0], qs)
     conv.append_message(conv.roles[1], None)
     prompt = conv.get_prompt()
-
-    prompt = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * image_token_len + DEFAULT_IM_END_TOKEN +  '\n' + qs 
+    
     inputs = tokenizer([prompt])
+
+    print(prompt)
 
 
     image = load_image(args.image_file)
