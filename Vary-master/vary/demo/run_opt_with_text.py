@@ -51,7 +51,8 @@ def eval_model(args):
 
     model.to(device='cuda',  dtype=torch.bfloat16)
 
-    image_processor_high =  test_transform
+    # image_processor_high =  test_transform
+    image_processor_high = BlipImageEvalProcessor(image_size=1024)
 
 
     image_token_len = 256
