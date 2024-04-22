@@ -13,7 +13,7 @@
 </p>
 
 ## Release
-- [2024/4/21] 🔥🔥🔥 We have released the web demo in [Project Page](https://onechartt.github.io/). Have fun!!
+- [2024/4/21] 🔥🔥🔥 For OneChart, we have released the web demo in [Project Page](https://onechartt.github.io/). Have fun!!
 - [2024/4/21] 🔥🔥🔥 We present a Vary-tiny LAVIS codebase (for training from scratch) and the Vary-600k dataset (300K English and 300K Chinese pages) [here](https://github.com/Ucas-HaoranWei/Vary-tiny-600k) !!!
 - [2024/4/15]🔥🔥🔥We release a chart parsing model OneChart [here](https://github.com/LingyvKong/OneChart).
 - [2024/4/12]🔥🔥🔥We will release a chart parsing model based on Vary-tiny next week. The model supports both English and Chinese charts.
