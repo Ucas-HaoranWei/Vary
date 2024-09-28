@@ -4,6 +4,8 @@
 <a href="http://region-31.seetacloud.com:22701/"><img src="https://img.shields.io/badge/demo-blue"></a> 
 <a href="https://zhuanlan.zhihu.com/p/671420712"><img src="https://img.shields.io/badge/zhihu-yellow"></a> 
 
+<a href="https://trendshift.io/repositories/5978" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5978" alt="Ucas-HaoranWei%2FVary | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 [Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Lingyu Kong*, Jinyue Chen, Liang Zhao, [Zheng Ge](https://joker316701882.github.io/), [Jinrong Yang](https://yancie-yjr.github.io/), [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), Chunrui Han, [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en)
 	
 
