@@ -15,6 +15,7 @@
 </p>
 
 ## Release
+- [2024/12/24] 🔥🔥🔥 My new work on system-2 perception is released [slow-perception](https://github.com/Ucas-HaoranWei/Slow-Perception).
 - [2024/9/03] 🔥🔥🔥 We release a very strong and comprehensive OCR model [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0).
 - [2024/7/16] 🎉🎉🎉 [OneChart](https://github.com/LingyvKong/OneChart) is accepted by ACM'MM 2024 oral (3.97%)!
 - [2024/7/2] 🔥🔥🔥 Vary is accepted by ECCV2024. To thank everyone for their attention, I will release a model that performs on par with the Vary-document soon.
