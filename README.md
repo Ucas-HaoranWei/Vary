@@ -64,6 +64,7 @@ pip install flash-attn --no-build-isolation
 ## Vary Weights
 - If you are in urgent need of weights for your research recently, please contact me by email. 
 - Download the CLIP-VIT-L in [Hugging Face](https://huggingface.co/openai/clip-vit-large-patch14/tree/main)
+- [Here](https://github.com/Ucas-HaoranWei/Vary-toy) for Vary-toy weights. 
   
 ## Demo
 1. Update the CLIP-VIT path in the codes (/cache/vit-large-patch14/) to your path.
